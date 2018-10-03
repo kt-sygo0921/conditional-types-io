@@ -1,0 +1,25 @@
+{
+  "banana": {
+    "price": 200,
+    "color": "#ffd800",
+    "soldout": false,
+    "displayName": "ばなな",
+    "shop": {
+      "name": "yao/ya"
+    }
+  },
+  "apple": {
+    "price": 150,
+    "color": "#e9002c",
+    "soldout": false,
+    "displayName": "りんご",
+    "shop": null
+  },
+  "orange": {
+    "price": 100,
+    "color": null,
+    "soldout": false,
+    "displayName": "みかん",
+    "shop": null
+  }
+}
