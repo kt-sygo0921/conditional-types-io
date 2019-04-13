@@ -9,10 +9,10 @@
     "strictNullChecks": true,
     "alwaysStrict": true,
     "moduleResolution": "node",
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "strictPropertyInitialization": true
   },
   "include": [
-    "3.1/**/*.ts"
   ],
   "exclude": [
     "node_modules",
